@@ -1,0 +1,27 @@
+### Java ###
+# Compiled class file
+*.class
+
+### Gradle ###
+.gradle
+build/
+target/
+
+### Package Files ###
+*.jar
+
+###Spring generated files###
+.springBeans
+spring-test/test-output/
+
+
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
