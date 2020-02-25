@@ -1,1 +1,0 @@
-This file was needed to create the directory. When other files are uploaded to the folder, this file can be deleted.
