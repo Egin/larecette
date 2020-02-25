@@ -1,1 +1,0 @@
-This file was needed to create the directory. Now it can be deleted.
