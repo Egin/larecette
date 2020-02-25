@@ -19,7 +19,7 @@ This repository contains some shared files, documentation and links related to t
 ### Links to microservices:
 
 **Product Microservice**
-[example](http://example.com/)
+[link to github](https://github.com/juliafedosya/product-microservice)
 
 **Recipe Microservice** 
 [](http://example.com/)
